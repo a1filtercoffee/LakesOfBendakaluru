@@ -41,7 +41,7 @@ from common import CACHE, OUT, ROOT  # noqa: E402
 # The Census of India site sends an incomplete certificate chain; the system store completes it.
 truststore.inject_into_ssl()
 
-HEADERS = {"User-Agent": "LakesOfBendakaluru/1.0 (https://github.com/sagrkv/LakesOfBendakaluru)"}
+HEADERS = {"User-Agent": "LakesOfBendakaluru/1.0 (https://github.com/a1filtercoffee/LakesOfBendakaluru)"}
 COMMONS = "https://commons.wikimedia.org/wiki/Special:FilePath/"
 OPENCITY = "https://data.opencity.in/dataset/"
 CENSUS = "https://censusindia.gov.in/nada/index.php/catalog/"

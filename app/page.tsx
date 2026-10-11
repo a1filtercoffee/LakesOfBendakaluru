@@ -9,7 +9,7 @@ import { formatCount } from "@/lib/format";
 import { getLakes } from "@/lib/lakes";
 import { share, SITE_NAME, SITE_URL } from "@/lib/share";
 
-const GITHUB = "https://github.com/sagrkv/LakesOfBendakaluru";
+const GITHUB = "https://github.com/a1filtercoffee/LakesOfBendakaluru";
 
 function description(): string {
   const lakes = getLakes();

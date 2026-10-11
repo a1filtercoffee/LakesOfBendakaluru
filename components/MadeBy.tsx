@@ -7,7 +7,7 @@ export default function MadeBy({ className = "" }: { className?: string }) {
         filtercoffee.dev
       </a>{" "}
       project, open source{" "}
-      <a href="https://github.com/sagrkv/LakesOfBendakaluru" className="ink-link font-semibold">
+      <a href="https://github.com/a1filtercoffee/LakesOfBendakaluru" className="ink-link font-semibold">
         on GitHub
       </a>
     </p>
