@@ -35,7 +35,7 @@ export function GET() {
     `- [lakes.geojson](${SITE_URL}/data/lakes.geojson): the outline of every lake that has one`,
     `- ${SITE_URL}/data/lake/{id}.json: the full record behind each lake page, with the source of every fact`,
     `- [sources.json](${SITE_URL}/data/sources.json): every source key with its title, publisher, link, licence and credit`,
-    "- [Source code and data pipeline](https://github.com/sagrkv/LakesOfBendakaluru)",
+    "- [Source code and data pipeline](https://github.com/a1filtercoffee/LakesOfBendakaluru)",
     "",
     `## The ${LISTED} largest lakes that still exist`,
     "",
